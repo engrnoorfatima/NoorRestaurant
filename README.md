@@ -22,7 +22,7 @@ React Router
 
 Axios
 
-Tailwind CSS / Bootstrap (your choice)
+CSS/Bootstrap
 
 Backend:
 Node.js
