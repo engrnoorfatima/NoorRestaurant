@@ -22,7 +22,7 @@ React Router
 
 Axios
 
-CSS 
+Tailwind CSS / Bootstrap (your choice)
 
 Backend:
 Node.js
@@ -30,5 +30,7 @@ Node.js
 Express.js
 
 MongoDB + Mongoose
+
+JWT for Authentication
 
 dotenv
